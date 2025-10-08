@@ -39,3 +39,21 @@ Key logger coded in python for educational purposes. The program creates and sto
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cb3e4a31-aa9f-4c1a-8b79-4cd12be18d1a" />
 
 ---
+
+### 🔗[Creative Web project](https://github.com/Sunniiiva/HTML-CSS-/tree/main/Exam/EKSAMEN%20KREAW)
+
+This project is a creative web experience built with HTML and CSS, combining storytelling and front-end design. It visualizes a fictional journey of Erna Solberg through Las Vegas on an interactive map. Users can click along her route, and each stop transitions to a new page featuring custom CSS animations, smooth transitions, and responsive layouts. 
+
+**🛠️ Tech stack:**
+- Languages: HTML
+- Style sheet: CSS
+
+**Images**
+
+<img width="500" height="1561" alt="image" src="https://github.com/user-attachments/assets/21516b33-d3aa-4bf9-943c-b062d004925a" />
+<img width="500" height="1561" alt="image" src="https://github.com/user-attachments/assets/678b3be6-96c2-4b7b-8302-a89cd4d0ee69" />
+<img width="500" height="1552" alt="image" src="https://github.com/user-attachments/assets/0da40307-ffec-4b5e-a1b6-80149a30b0b7" />
+
+---
+
+
