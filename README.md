@@ -34,6 +34,7 @@ Key logger coded in python for educational purposes. The program creates and sto
 - Languages: Python 🐍
 - Libraries: pynput
 
+**Image**
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cb3e4a31-aa9f-4c1a-8b79-4cd12be18d1a" />
 
 ---
