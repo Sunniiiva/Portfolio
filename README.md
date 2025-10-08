@@ -26,4 +26,14 @@ Quantum computing project in python using the quiskit extention to showcase how 
 
 ---
 
-### 🔗[Key Logger]()
+### 🔗[Key Logger](https://github.com/Sunniiiva/PYTHON/blob/main/KeyLogger/keyLogger.py)
+
+Key logger coded in python for educational purposes. The program creates and stores key strokes into a text file that is being saved locally. The project was developed for educational research into endpoint threat behavior, detection and incident response workflows. It is not intended for malicious use. 
+ 
+**🛠️ Tech stack:**
+- Languages: Python 🐍
+- Libraries: pynput
+
+<img width="968" height="1034" alt="image" src="https://github.com/user-attachments/assets/cb3e4a31-aa9f-4c1a-8b79-4cd12be18d1a" />
+
+---
